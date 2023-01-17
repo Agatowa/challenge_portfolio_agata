@@ -23,7 +23,7 @@ Moim celem jest maksymalne wykorzystanie możliwości jakie daje mi udział w pr
 ## **Subtask 4**
 
 ### **Na czym polega ta aplikacja? Do czego służy?**
-<div align="justify">Aplikacja ma za zadanie ułatwić pracę łowcom talentów, którzy mogą tworzyć i zarządzać bazą danych piłkarzy nożnych. Można w niej dodawać i analizować dane o zawodnikach oraz przebieg i wyniki meczów w jakich brał udział, a także tworzyć raporty na temat zdarzeń piłkarskich.
+<div align="justify">Aplikacja ma za zadanie ułatwić pracę łowcom talentów, którzy mogą tworzyć i zarządzać bazą danych piłkarzy nożnych. Można w niej dodawać i analizować dane o zawodnikach oraz przebieg i wyniki meczów w jakich brali udział, a także tworzyć raporty na temat zdarzeń piłkarskich.
 
 ### **Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)**
 
@@ -40,10 +40,10 @@ PO WEJŚCIU W ZAKŁADKĘ "GRACZE"
 - lista graczy z najważniejszymi informacjami, którą można edytować, pobierać, drukować, wybrać sposób wyświetlania i informacje jakie mają się pojawić, filtrowanie wyświetlanych wyników
 PO WYBRANIU GRACZA
 - edycja profilu - podstawowe informacje, dodatkowo można dodawać kilka języków i linków do YouTube - zapisanie zmian, usunięcie zawodnika z bazy
-- lista i dodawanie meczy w których brał udział - można wpisywać szczegóły dotyczące przebiegu zdarzenia tj. czas gry, kolor koszulki. 
+- lista i dodawanie meczy w których brał udział - można wpisywać szczegóły dotyczące przebiegu zdarzenia tj. czas gry, kolor koszulki itp. 
   - edycja informacji o poszczególnych meczach. Po wejściu w edycję można zobaczyć zdarzenia podczas meczu.
   - dodawanie raportu. Można opisywać (i formatować tekst) o przebieg zdarzenia, analizować i komentować dane statystyczne. 
-  - możliwość tworzenia przebiegu meczu z uwzględnieniem zachowań zawodnika w poszczególnych minutach. Ikony: rozpoczęcia odliczania czasu, zatrzymanie, ikona do "przeklikania" konkretnej połowy meczu, cofnięcie zagrania, załadowanie raportu, usunięcie. Możliwość wpisania z klawiatury konkretnej minuty i połowy meczu
+  - możliwość tworzenia przebiegu meczu z uwzględnieniem zachowań zawodnika w poszczególnych minutach. Ikony: rozpoczęcia odliczania czasu, zatrzymanie, ikona do "przeklikania" konkretnej połowy meczu, cofnięcie zagrania, załadowanie raportu, usunięcie. Możliwość wpisania z klawiatury konkretnej minuty i połowy meczu.
 - lista raportów - można edytować
 
 Nie wszystkie funkcje pojawiające się w aplikacji są intuicyjne. 
@@ -52,7 +52,7 @@ Nie wszystkie funkcje pojawiające się w aplikacji są intuicyjne.
 
 ### **Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?**
 
-Interfejs jest bardzo prosty a jednocześnie chaotyczny. Brak logo/widocznej nazwy strony powoduje, że strona wygląda mało profesjonalnie. Brak pomysłu na kolorystykę i wyznaczenie stref kolorem. Brakuje uporządkowania poszczególych funkcji na stronie głównej, wszystko wygląda jakby zostało tam umieszczone przypadkiem. Okienka mają różne wysokości co wpływa na chaotyczny odbiór, tak samo linie (np. pionowa przy ilości akcji i aktywności) nie są zachowane. Dużo różnych wielkości i sposobów formatowania tekstu również wpływa na niekorzyść. Boczny panel jest za długi względem umieszczonych na nim informacji. 
+Interfejs strony głównej jest bardzo prosty, a jednocześnie chaotyczny. Brak logo/widocznej nazwy strony powoduje, że strona wygląda mało profesjonalnie. Brak pomysłu na kolorystykę i wyznaczenie stref kolorem (widoczne na całej stronie oprócz zakładki z raportem). Brakuje uporządkowania poszczególych funkcji na stronie głównej, wszystko wygląda jakby zostało tam umieszczone przypadkiem. Okienka mają różne wysokości co wpływa na chaotyczny odbiór, tak samo linie (np. pionowa przy ilości akcji i aktywności) nie są zachowane. Dużo różnych wielkości i sposobów formatowania tekstu również wpływa na niekorzyść. Boczny panel jest za długi względem umieszczonych na nim informacji. 
   
 Strony do wpisywania i edytowania informacji o meczach i graczach przemyślane i uporządkowane, tak samo wygląd strony do tworzenia raportów.
 
@@ -62,7 +62,7 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 
 ### **Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)**
 
-- po wyborze zawodnika wchodzi się od razu w tryb edycji
+- po wyborze zawodnika i meczu wchodzi się od razu w tryb edycji
 - brak możliwośc wyboru meczu i raportu z listy, dopiero po kliknięciu edycji
 - brak przycisku zatwierdzania filtra (przy szukaniu graczy)
 - źle wyświetlane listy po pobraniu do excela
