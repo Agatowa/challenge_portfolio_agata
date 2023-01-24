@@ -3,7 +3,10 @@
   * [**_Subtask 1_**](#subtask-1)
   * [**_Subtask 3_**](#subtask-3)
   * [**_Subtask 4_**](#subtask-4)
-
+* [**TASK 2**](#task-2)
+  * [**_Subtask 1_**](#subtask-1)
+  * [**_Subtask 2_**](#subtask-2)
+  * [**_Subtask 3_**](#subtask-3)
 ***
 
 # TASK 1 
@@ -71,3 +74,14 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 - okno do wyszukiwania działa tylko przy wpisaniu pojedynczych danych np. można wpisać "Robert" lub "Lewandowski" i wtedy wyszukuje, jednak przy wpisaniu "Robert Lewandowski" - brak wyników
 - brak wskaźnika przy wyborze gracza
 - w zakładce w której można tworzyć przebieg meczu nieograniczona ilość wyboru połowy meczu </div>
+
+# TASK 2 
+
+## Subtask 1
+[SUBTASK 1](https://docs.google.com/spreadsheets/d/1mTvx1BMLM6WdPeNS3Yp4lA7NDZwdtSTy/edit#gid=2133199929)
+
+## Subtask 2
+[SUBTASK 2](https://docs.google.com/spreadsheets/d/15-La8XtnHsrVsK2x2ATvW1ZVVt1MNCAM/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
+
+## Subtask 3
+<div align="justify">Pisanie test casów pomaga testerom zrozumieć wymagania i zakres ich testów. Głównym celem jest porównanie funkcjonowania programu z założeniami. Zrozumiałe i uporządkowane kroki oraz jasna definicja tego co będzie testowane jest fundamentem do optymalnego wykonywania pracy testera.</div>
