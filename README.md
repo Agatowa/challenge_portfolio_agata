@@ -4,9 +4,9 @@
   * [**_Subtask 3_**](#subtask-3)
   * [**_Subtask 4_**](#subtask-4)
 * [**TASK 2**](#task-2)
-  * [**_Subtask 1_**](#subtask-1)
-  * [**_Subtask 2_**](#subtask-2)
-  * [**_Subtask 3_**](#subtask-3)
+  * [**_Subtask 2.1_**](#subtask-2.1)
+  * [**_Subtask 2.2_**](#subtask-2.2)
+  * [**_Subtask 2.3_**](#subtask-2.3)
 ***
 
 # TASK 1 
@@ -19,6 +19,8 @@
 Uszanowanko!
 
 <div align="justify">Nazywam się Agata. Zdecydowałam się na udział w projekcie ponieważ chciałam się szerzej zapoznać z zawodem testera manualnego. Już od pewnego czasu myślałam aby przebranżowić się w tym kierunku, ale brakowało mi bodźca i pomysłu na naukę oraz usystematyzowanie wiedzy. Pomyślałam, że najlepszym rozwiązaiem będzie udział w projekcie, w którym są do wykonania zadania w określonym przedziale czasu, bo jak wiadomo nie ma lepszej motywacji niż deadline 🙃.
+
+<div align="center"><img src="https://cdn.stackward.com/wp-content/uploads/2016/09/99.jpg" alt="https://cdn.stackward.com/wp-content/uploads/2016/09/99.jpg" width="400"/></div>
 
 Moim celem jest maksymalne wykorzystanie możliwości jakie daje mi udział w projekcie. Mam nadzieję, że wyzwanie pomoże mi odnaleźć odpowiedź czy sprawdzę się w zawodzie testerki oraz otworzy nowe ścieżki i pozwoli na dalszy rozwój.</div>
 *Agata*
@@ -77,11 +79,11 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 
 # TASK 2 
 
-## Subtask 1
+## Subtask 2.1
 [SUBTASK 1](https://docs.google.com/spreadsheets/d/1mTvx1BMLM6WdPeNS3Yp4lA7NDZwdtSTy/edit#gid=2133199929)
 
-## Subtask 2
+## Subtask 2.2
 [SUBTASK 2](https://docs.google.com/spreadsheets/d/15-La8XtnHsrVsK2x2ATvW1ZVVt1MNCAM/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
 
-## Subtask 3
+## Subtask 2.3
 <div align="justify">Pisanie test casów pomaga testerom zrozumieć wymagania i zakres ich testów. Głównym celem jest porównanie funkcjonowania programu z założeniami. Zrozumiałe i uporządkowane kroki oraz jasna definicja tego co będzie testowane jest fundamentem do optymalnego wykonywania pracy testera.</div>
