@@ -86,4 +86,4 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 [SUBTASK 2](https://docs.google.com/spreadsheets/d/15-La8XtnHsrVsK2x2ATvW1ZVVt1MNCAM/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
 
 ## Subtask 2.3
-<div align="justify">Pisanie test casów pomaga testerom zrozumieć wymagania i zakres ich testów. Głównym celem jest porównanie funkcjonowania programu z założeniami. Zrozumiałe i uporządkowane kroki oraz jasna definicja tego co będzie testowane jest fundamentem do optymalnego wykonywania pracy testera.</div>
+<div align="justify">Baza wiedzy o aplikacji. Pisanie test casów pomaga testerom zrozumieć wymagania i zakres ich testów. Głównym celem jest porównanie funkcjonowania programu z założeniami. Zrozumiałe i uporządkowane kroki oraz jasna definicja tego co będzie testowane jest fundamentem do optymalnego wykonywania pracy testera.</div>
