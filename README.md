@@ -4,9 +4,12 @@
   * [**_Subtask 3_**](#subtask-3)
   * [**_Subtask 4_**](#subtask-4)
 * [**TASK 2**](#task-2)
-  * [**_Subtask 2.1_**](#subtask-2.1)
-  * [**_Subtask 2.2_**](#subtask-2.2)
-  * [**_Subtask 2.3_**](#subtask-2.3)
+  * [**_Subtask 1_**](#subtask-2.1)
+  * [**_Subtask 2_**](#subtask-2.2)
+  * [**_Subtask 3_**](#subtask-2.3)
+* [**TASK 3**](#task-3)
+  * [**_Subtask 1;2_**](#subtask-2.1)
+  * [**_Subtask 3_**](#subtask-2.2)
 ***
 
 # TASK 1 
@@ -79,11 +82,19 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 
 # TASK 2 
 
-## Subtask 2.1
+## Subtask 1
 [SUBTASK 1](https://docs.google.com/spreadsheets/d/1mTvx1BMLM6WdPeNS3Yp4lA7NDZwdtSTy/edit#gid=2133199929)
 
-## Subtask 2.2
+## Subtask 2
 [SUBTASK 2](https://docs.google.com/spreadsheets/d/15-La8XtnHsrVsK2x2ATvW1ZVVt1MNCAM/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
 
-## Subtask 2.3
+## Subtask 3
 <div align="justify">Baza wiedzy o aplikacji. Pisanie test casów pomaga testerom zrozumieć wymagania i zakres ich testów. Głównym celem jest porównanie funkcjonowania programu z założeniami. Zrozumiałe i uporządkowane kroki oraz jasna definicja tego co będzie testowane jest fundamentem do optymalnego wykonywania pracy testera.</div>
+
+# TASK 3 
+
+## Subtask 1; 2
+[SUBTASK 1;2](https://docs.google.com/spreadsheets/d/1S72RQIBFOx6kE5xY2muu-Uuvjy3JvZRq/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
+
+## Subtask 3
+[SUBTASK 3](https://docs.google.com/spreadsheets/d/1L_LKGr617R2xkNj_RwjTUG_0coO1ZfRb/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
