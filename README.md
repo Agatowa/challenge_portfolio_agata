@@ -1,14 +1,17 @@
 ## SPIS TREŚCI
 * [**TASK 1**](#task-1) 
-  * [**_Subtask 1_**](#subtask-1)
-  * [**_Subtask 3_**](#subtask-3)
-  * [**_Subtask 4_**](#subtask-4)
+  * [**_Subtask 1_**](#subtask-13)
+  * [**_Subtask 3_**](#subtask-33)
+  * [**_Subtask 4_**](#subtask-43)
 * [**TASK 2**](#task-2)
   * [**_Subtask 1_**](#subtask-2.1)
   * [**_Subtask 2_**](#subtask-2.2)
   * [**_Subtask 3_**](#subtask-2.3)
 * [**TASK 3**](#task-3)
-  * [**_Subtask 1;2_**](#subtask-2.1)
+  * [**_Subtask 1/2_**](#subtask-2.1)
+  * [**_Subtask 3_**](#subtask-2.2)
+* [**TASK 4**](#task-3)
+  * [**_Subtask 1/2_**](#subtask-2.1)
   * [**_Subtask 3_**](#subtask-2.2)
 ***
 
@@ -93,8 +96,43 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 
 # TASK 3 
 
-## Subtask 1; 2
-[SUBTASK 1;2](https://docs.google.com/spreadsheets/d/1S72RQIBFOx6kE5xY2muu-Uuvjy3JvZRq/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
+## Subtask 1/2
+[SUBTASK 1/2](https://docs.google.com/spreadsheets/d/1S72RQIBFOx6kE5xY2muu-Uuvjy3JvZRq/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
 
 ## Subtask 3
 [SUBTASK 3](https://docs.google.com/spreadsheets/d/1L_LKGr617R2xkNj_RwjTUG_0coO1ZfRb/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
+
+# TASK 4 
+
+## Subtask 1/2
+
+[SUBTASK 1/2](https://docs.google.com/spreadsheets/d/1RQg_jF5Ffrl00GxLvOK0i9PM4zqBpUPI/edit?usp=share_link&ouid=109754981255136796649&rtpof=true&sd=true)
+
+## Subtask 3
+
+<div align="justify">
+ 
+### **Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
+ 
+Aplikacja "Focusly" służy do nauki medytacji oraz posiada treści mające wspomagać rozwój osobisty. Możemy w niej znaleźć zaróno artykuły jak i treści mówione. Ponadto aplikacja posiada ćwiczenia oddechowe oraz muzykę relaksacyjną. Aplikacja jest darmowa ale większość treści jest udostępniana dopiero po dokonaniu płatności. Jej głównym celem jest zachęcenie użytkowników do wykupienia subskrybcji.
+ 
+### **Kto ma być użytkownikiem końcowym aplikacji?**
+ 
+ Końcowym użytkownikiem aplikacji będzie osoba której zależy na wewnętrznym rozwoju oraz jest gotowa zainwestować w to czas i pieniądze.
+ 
+### **Czy według Ciebie aplikacja jest user friendly?** 
+ 
+ Aplikacja "Focusly" jest aplikacją bardzo intuicyjną, zarówno ikony jak i opisy poszczególnych czynności są bardzo czytelne. Wszystkie najpotrzebniejsze funkcje są na dole ekranu, w zasięgu kciuka, co znacznie ułatwia korzystanie. Ikona profilu, w której znajdują sią informacje o użytkowniku oraz zmiana ustawień - widoczna, chociaż mogłaby się znajdować na dolnym panelu razem z innymi najważniejszymi funkcjami, ale nie jest to konieczne. Wygląd interface, kolorystyka, wzór ikon - bardzo spójny, przyjemny dla oka. Aplikacja bardzo przemyślana zarówno pod kątem wizualnym jak i funkcjonalnym, uważam, że korzystanie z niej nie sprawiałoby nikomu większych trudności.
+ 
+### **Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?** 
+ 
+Elementy usprawniające działanie aplikacji oraz funkcjonalność:
+ - zastosowanie opcji zapętlenia melodii
+ - rozwinięcie platformy w języku angielskim
+ - więcej opcji językowych aplikacji
+ - wyjście z zakładek na stronie głównej (np. Twój cel) mogłoby się odbywać po kliknięciu w puste pole zamiast tylko w napis "zamknij"
+ 
+ ### **Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
+ 
+ Główną różnicą jaką dostrzegam jest większa intuicyjność w korzystaniu. Wszystkie najpotrzebniejsze funkcje są dostępne z ekranu głównego, oznaczone odpowiednimi ikonami i opisami. Testowanie polega bardziej na klikaniu w odpowiednie ikony, przechodzenie do stron, niż wpisywanie i zmiana danych (chociaż tutaj prawdopodobnie chodzi bardziej o różnice w testowanych aplikacjach). Aplikacja natywna działa dużo szybciej niezależnie od prędkości internetu. 
+</div>
