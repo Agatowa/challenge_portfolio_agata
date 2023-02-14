@@ -10,9 +10,13 @@
 * [**TASK 3**](#task-3)
   * [**_Subtask 1/2_**](#subtask-2.1)
   * [**_Subtask 3_**](#subtask-2.2)
-* [**TASK 4**](#task-3)
+* [**TASK 4**](#task-4)
   * [**_Subtask 1/2_**](#subtask-2.1)
   * [**_Subtask 3_**](#subtask-2.2)
+* [**TASK 5**](#task-5)
+  * [**_Subtask 1_**](#subtask-2.1)
+  * [**_Subtask 2_**](#subtask-2.2)
+  * [**_Subtask 3_**](#subtask-2.3)
 ***
 
 # TASK 1 
@@ -136,3 +140,73 @@ Elementy usprawniające działanie aplikacji oraz funkcjonalność:
  
  Główną różnicą jaką dostrzegam jest większa intuicyjność w korzystaniu. Wszystkie najpotrzebniejsze funkcje są dostępne z ekranu głównego, oznaczone odpowiednimi ikonami i opisami. Testowanie polega bardziej na klikaniu w odpowiednie ikony, przechodzenie do stron, niż wpisywanie i zmiana danych (chociaż tutaj prawdopodobnie chodzi bardziej o różnice w testowanych aplikacjach). Aplikacja natywna działa dużo szybciej niezależnie od prędkości internetu. 
 </div>
+
+# TASK 5
+
+## Subtask 1 
+
+**KOMENDY SQL**
+
+- **USE** - przełącznie do bazy danych
+
+- **SELECT** - wybierz
+
+- **GO** - koniec wsadu
+
+- **'*'** - pokaż zawartość wszystkich kolumn
+
+- **FROM** - wyszukiwanie nazwa_schematu.nazwa_tabeli
+
+- **[..] (przy FROM)** - opcjonalne gdy nazwa składa się z jednego słowa lub jest z ".", konieczne gdy w nazwie jest spacja
+
+- **sp_rename** - zmiana nazwy
+
+- **AS** - alias
+
+- **ORDER BY** - sortowanie np. według nazwy
+
+- **ORDER BY (...) ASC** - sortowanie rosnąco (nie trzeba, sortowanie rosnące domyślne)
+
+- **ORDER BY (...) DESC** - sortowanie malejąco
+
+- **WHERE (...) = (...)** - konkretna wartość
+
+- **WHERE (...) > 100** - wartości większe od 100
+
+- **WHERE (...) BETWEEN (...) AND (...)** - wartości w przedziale pomiędzy 
+
+- **WHERE Color = 'red'** - (przykład) wyświetla wartości w kolorze czerwonym, wartości tekstowe w '...'
+
+- **WHERE Color <> 'red' lub Color != 'red'** - (przykład) wyświetla wartości o innym kolorze niż czerwony
+
+- **WHERE Name LIKE 'B%'** - (przykład) wyświetlanie produktów na literę "B", przy czym "%" - dowolna ilość dowolnego znaku, w tym wypadku "B"
+
+- **WHERE Name LIKE '%Bike%'** - (przykład) ma w swojej nazwie "bike" na końcu lub początku
+
+- **_** - dowolny ale tylko jeden znak, "_ _" - dwa dowolne znaki
+
+- **AND** - łączenie wyszukiwania (np. WHERE Color = 'black' AND Size = 'M')
+
+- **OR** - dodawanie kilku wartości (np. WHERE Color = 'black' OR Color = 'white' OR Color = 'yellow')
+
+- **IN** - dodawanie kilku wartości (np. WHERE Color IN ('black', 'white', 'yellow')
+
+- **JOIN** - łączenie tabel
+
+**FUNKCJE W SQL**
+
+- **SELECT GETDATE** - wyświetla obecną datę i godzinę
+
+- **SELECT UPPER (...)** - zmienia treść na wielkie litery
+
+- **SELECT LOWER (...)** - zmienia treść na małe litery
+
+- **SELECT DATEDIFF (...)** - oblicza różnicę między godzinami/dniami/miesiącami itp.
+
+- **SELECT COUNT** - zlicza wiersze
+
+- **SELECT SUM** - sumowanie
+
+- **SELECT MIN** - wartości minimalne
+
+
