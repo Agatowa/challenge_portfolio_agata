@@ -86,6 +86,8 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 - brak wskaźnika przy wyborze gracza
 - w zakładce w której można tworzyć przebieg meczu nieograniczona ilość wyboru połowy meczu </div>
 
+***
+
 # TASK 2 
 
 ## Subtask 1
@@ -97,6 +99,8 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 ## Subtask 3
 <div align="justify">Baza wiedzy o aplikacji. Pisanie test casów pomaga testerom zrozumieć wymagania i zakres ich testów. Głównym celem jest porównanie funkcjonowania programu z założeniami. Zrozumiałe i uporządkowane kroki oraz jasna definicja tego co będzie testowane jest fundamentem do optymalnego wykonywania pracy testera.</div>
 
+***
+
 # TASK 3 
 
 ## Subtask 1/2
@@ -104,6 +108,8 @@ Aplikacja jest w miarę intuicyjna, panel boczny przekierowuje nas do najważnie
 
 ## Subtask 3
 [SUBTASK 3](https://docs.google.com/spreadsheets/d/1L_LKGr617R2xkNj_RwjTUG_0coO1ZfRb/edit?usp=drive_web&ouid=109754981255136796649&rtpof=true)
+
+***
 
 # TASK 4 
 
@@ -139,6 +145,8 @@ Elementy usprawniające działanie aplikacji oraz funkcjonalność:
  
  Główną różnicą jaką dostrzegam jest większa intuicyjność w korzystaniu. Wszystkie najpotrzebniejsze funkcje są dostępne z ekranu głównego, oznaczone odpowiednimi ikonami i opisami. Testowanie polega bardziej na klikaniu w odpowiednie ikony, przechodzenie do stron, niż wpisywanie i zmiana danych (chociaż tutaj prawdopodobnie chodzi bardziej o różnice w testowanych aplikacjach). Aplikacja natywna działa dużo szybciej niezależnie od prędkości internetu. 
 </div>
+
+***
 
 # TASK 5
 
