@@ -1,22 +1,21 @@
 ## SPIS TREŚCI
 * [**TASK 1**](#task-1) 
-  * [**_Subtask 1_**](#subtask-13)
-  * [**_Subtask 3_**](#subtask-33)
-  * [**_Subtask 4_**](#subtask-43)
+  * **_Subtask 1_**
+  * **_Subtask 3_**
+  * **_Subtask 4_**
 * [**TASK 2**](#task-2)
-  * [**_Subtask 1_**](#subtask-2.1)
-  * [**_Subtask 2_**](#subtask-2.2)
-  * [**_Subtask 3_**](#subtask-2.3)
+  * **_Subtask 1_**
+  * **_Subtask 2_**
+  * **_Subtask 3_**
 * [**TASK 3**](#task-3)
-  * [**_Subtask 1/2_**](#subtask-2.1)
-  * [**_Subtask 3_**](#subtask-2.2)
+  * **_Subtask 1/2_**
+  * **_Subtask 3_**
 * [**TASK 4**](#task-4)
-  * [**_Subtask 1/2_**](#subtask-2.1)
-  * [**_Subtask 3_**](#subtask-2.2)
+  * **_Subtask 1/2_**
+  * **_Subtask 3_**
 * [**TASK 5**](#task-5)
-  * [**_Subtask 1_**](#subtask-2.1)
-  * [**_Subtask 2_**](#subtask-2.2)
-  * [**_Subtask 3_**](#subtask-2.3)
+  * **_Subtask 1_**
+  * **_Subtask 3_**
 ***
 
 # TASK 1 
