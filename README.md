@@ -287,7 +287,7 @@ SELECT * FROM 'movies' WHERE price > 9 AND movie_id BETWEEN 2 AND 8
 
 ***
 
-# TASK 5
+# TASK 6
 
 ## Subtask 1 
 
@@ -361,4 +361,6 @@ INSERT INTO customers VALUE ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com'
 
 10/15 😟
 
+## Subtask 3
 
+[PORTFOLIO](https://github.com/Agatowa/Portfolio)
