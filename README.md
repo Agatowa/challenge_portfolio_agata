@@ -17,6 +17,10 @@
   * **_Subtask 1_**
   * **_Subtask 3_**
 * [**TASK 6**](#task-6)
+  * **_Subtask 1_**
+  * **_Subtask 2_**
+  * **_Subtask 3_**
+
 ***
 
 # TASK 1 
@@ -349,7 +353,9 @@ SELECT actors.name, actors.surname, movies.title FROM cast INNER JOIN actors ON 
 
 **20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
 
+INSERT INTO customers VALUE ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 
+![image](https://user-images.githubusercontent.com/122825333/220468273-ec47f23d-c58d-4544-996d-a5c04c3f431e.png)
 
 ## Subtask 2
 
